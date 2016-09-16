@@ -1,9 +1,9 @@
 # gustavo
 #Projeto do semestre
 
-Tema:
+Tema: blog coleção de livros
 
-Público-alvo:
+Público-alvo: dad
 
 Objetivos do site:
 
