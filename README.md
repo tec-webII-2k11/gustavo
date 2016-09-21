@@ -1,19 +1,19 @@
 # gustavo
 #Projeto do semestre
 
-Tema:
+Tema:forum de discussão sobre OS
 
-Público-alvo:
+Público-alvo:aficionados por tecnologia OS
 
-Objetivos do site:
+Objetivos do site:Criar um espaço para discussão sobre sistemas operacionais
 
 Funcionalidades do site:
 
-Usuário Administrador:
+Usuário Administrador:pode postar conteudo, moderar os comentarios, comentar e deletar conteudo
 
-Usuário Logado:
+Usuário Logado:pode comentar nas postagens(para debater sobre!)
 
-Usuário Visitante:
+Usuário Visitante:apenas visualizar o conteudo
 
 Mapa de Navegação:
 
