@@ -12,63 +12,10 @@
 				<img src="imagens/logo.jpg" alt="Vida OS">
 			  </section>	
 			 </header>
-			 
-			 <nav>
-                 <ul class="navbar">
- 
-                     <li class="aqui"><a href="index.html">Home</a></li>
-                     <li><a>Sistemas</a>
-					 <ul>
-		              <li><a href="">Linux </a>
-		  
-		               </li>
-         
-		              <li><a href="windows.html">Windows </a>
-		  
-		              </li> 
-                        </ul>
-						</li>
-		              <li><a>Especificações</a>
-					  <ul>
-					  
-					  <li><a href="especificação-linux.html">Linux</a>
-		  
-		              </li>
-                       
-					   <li><a href="especificação-windows.html">Windows</a>
-					   </li>
-		              </ul>
-					  </li>
-					  <li><a>Historia</a>
-		              <ul>
-					  <li><a href="historia_linux.html">Linux</a></li>
-					  
-		              <li><a href="historia_windows.html">Windows</a></li>
-					  </ul>
-					 </li>
-           
-		              <li><a href="comparação.html">Comparação </a>
-		  
-		             </li>
-         
-		             <li><a href="noticias.html">Noticias </a>
-		  
-		             </li>
-         
-		             <li><a href="download.html">Download </a>
-		  
-		             </li>
-         
-		             <li><a href="contato.html">Contato </a>
-		 
-		             </li>
-         
-		             <li><a href="serviços.html">Serviços </a>
-		  
-		             </li>
-
-                 </ul>
-             </nav>
+			 	 
+			 <?php
+				include "includes/menu.php";
+			   ?>	
               <br>
 			  </br>
 
@@ -103,9 +50,7 @@
 			<footer>	 
 			
 				
-			 <a>Integrantes: Gustavo Henrique Pinheiro Sant'Ana e 
-			                 Mauro Candido Camargos
-			</a>
+			
 			 
 			 <section id="facebook">
 			    <img src="imagens/facebook.ico"height="64" width="64">

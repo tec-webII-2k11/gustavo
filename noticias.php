@@ -13,62 +13,10 @@
 			  </section>	
 			 </header>
 			 
-			 <nav>
-                 <ul class="navbar">
- 
-                     <li class="aqui"><a href="index.html">Home</a></li>
-                     <li><a>Sistemas</a>
-					 <ul>
-		              <li><a href="linux.html">Linux </a>
-		  
-		               </li>
-         
-		              <li><a href="windows.html">Windows </a>
-		  
-		              </li> 
-                        </ul>
-						</li>
-		              <li><a>Especificações</a>
-					  <ul>
-					  
-					  <li><a href="especificação-linux.html">Linux</a>
-		  
-		              </li>
-                       
-					   <li><a href="especificação-windows.html">Windows</a>
-					   </li>
-		              </ul>
-					  </li>
-					  <li><a>Historia</a>
-		              <ul>
-					  <li><a href="historia_linux.html">Linux</a></li>
-					  
-		              <li><a href="historia_windows.html">Windows</a></li>
-					  </ul>
-					 </li>
-           
-		              <li><a href="comparação.html">Comparação </a>
-		  
-		             </li>
-         
-		             <li><a href="">Noticias </a>
-		  
-		             </li>
-         
-		             <li><a href="download.html">Download </a>
-		  
-		             </li>
-         
-		             <li><a href="contato.html">Contato </a>
-		 
-		             </li>
-         
-		             <li><a href="serviços.html">Serviços </a>
-		  
-		             </li>
-
-                 </ul>
-             </nav>
+			 <?php
+				include "includes/menu.php";
+			 ?>
+			 
               <br>
 			  </br>
 
@@ -103,11 +51,7 @@
 
 					 <article class="img">
 
-					 <img src="" height="300" width="450">
-                                       					 
-					 <img src="" height="300" width="450">
-                    
-		    		 <img src="" height="500" width="905">				 
+				      <img src="imagens/linuxwindowsnoticias.png" height="500" width="905">				 
  				 
 				    </article>
 				 
@@ -115,10 +59,7 @@
 				 </section>
 			<footer>	 
 			
-				
-			 <a>Integrantes: Gustavo Henrique Pinheiro Sant'Ana e 
-			                 Mauro Candido Camargos
-			</a>
+			
 			 
 			 <section id="facebook">
 			    <img src="imagens/facebook.ico"height="64" width="64">

@@ -6,7 +6,6 @@ body {
 #logo {
 	 padding:1px;
 	margin:0;
-	float:both;
 	width:auto;
       }
 Nav{
@@ -43,7 +42,7 @@ Nav{
 		  
 		  }
 
-.navbar li.aqui {
+.navbar li {
 	background-color:Gold;
 	
 	
@@ -93,10 +92,16 @@ li a:hover {
 	   	  
 	   }
 
+form{
+      font: normal 20px/1.2em Arial, Verdana;
+	  font-weight:bold;	
+	
+}
+
 .img   {
       	
       padding:0;
-      float:both;	  
+      	  
 
        
 	   }
