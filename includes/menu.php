@@ -47,9 +47,14 @@
 		  
 		             </li>
 		             
-		              <li><a href="logar.php">Logar </a>
+		              <li><a href="cadastro.php">Cadastro </a>
 		           
 					 </li>
+					
+					 <li><a href="logar.php">Logar </a>
+					
+					 </li>
+
 
                  </ul>
              </nav>
